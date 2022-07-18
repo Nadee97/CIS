@@ -36,7 +36,7 @@ $objusers=new user();
         <nav class="navbar navbar-dark sticky-top bg-dark flex-md-nowrap p-0 shadow">
             <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3" >
                 <h5 style="margin-left:20px;margin-top: 4px;">
-                    <img src="../../../images/logo_images/logo.png" alt="" height="30" width="30" /> CIS WORLD</h5> </a>
+                   CIS WORLD</h5> </a>
             <button class="navbar-toggler position-absolute d-md-none collapsed " type="button" data-toggle="collapse" data-target="#sidebarMenu">
                 <span class="navbar-toggler-icon"></span>
             </button>
